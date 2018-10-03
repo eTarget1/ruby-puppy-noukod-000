@@ -1,0 +1,6 @@
+
+class Dod
+  @@all = []
+  
+
+end
